@@ -1,200 +1,279 @@
-name=README.md
-<!-- Dark-theme, center-aligned GitHub Profile README for seenivasanks198 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                   🌟  SEENIVASAN — GITHUB PROFILE  🌟                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!-- Gradient Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Seenivasan&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=React%20Native%20%7C%20React.js%20Developer&descSize=22&descColor=8b949e&descAlignY=55&animation=fadeIn" alt="header" />
+
+<!-- Animated Typing SVG -->
 <div align="center">
 
-<!-- Animated typing banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=FFFFFF&width=900&height=70&lines=Hi+%F0%9F%91%8B+I%27m+Seeniva+Sankar;React+Native+%7C+React.js+Developer+%E2%9C%8F%EF%B8%8F;Building+performant+Android+apps+%26+responsive+web+apps" alt="typing svg" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+Seenivasan;%F0%9F%93%B1+Building+performant+Android+apps;%F0%9F%8C%90+Crafting+responsive+web+experiences;%E2%9A%A1+4%2B+years+of+React+Native+expertise" alt="Typing SVG" /></a>
 
-<h1 style="margin-top: 8px;">Seenivasan <img src="https://raw.githubusercontent.com/seenivasanks198/seenivasanks198/main/emoji-wave.png" width="28" alt="wave" /></h1>
+<br/>
 
-<!-- Quick badges -->
-<p>
-  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-1f2937?style=for-the-badge&logo=map" alt="location" />
-  <img src="https://komarev.com/ghpvc/?username=seenivasanks198&color=brightgreen" alt="profile views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=seenivasanks198.seenivasanks198" alt="visitor badge" />
-</p>
+<!-- Social & Quick-info Badges -->
+<a href="mailto:vasanvenky188@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-vasanvenky188-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/seenivasanks198">
+  <img src="https://img.shields.io/badge/GitHub-seenivasanks198-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/📍_Tamil_Nadu,_India-1a1b27?style=for-the-badge" alt="Location"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=seenivasanks198&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/seenivasanks198?label=Followers&style=flat-square&color=58a6ff&labelColor=1a1b27" alt="Followers"/>
 
 </div>
 
----
+<br/>
 
-## 👋 Introduction
-I am a React Native Developer with nearly 4 years of hands-on experience building Android mobile applications and React.js web applications. I focus on creating reusable components, integrating REST APIs, and optimizing app performance — working in Agile teams to deliver high-quality, user-centric products.
+<!-- ─────────────────────────── ABOUT ME ──────────────────────────── -->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔎 About Me
-- Email: vasanvenky188@gmail.com  
-- Location: Tamil Nadu, India  
-- Primary focus: React Native (Android) & React.js (Web) with TypeScript and modern ES6+ JavaScript.
+<br/>
 
----
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
 
-## 🧾 Professional Summary
-React Native Developer with nearly 4 years of experience developing Android mobile applications and React.js web applications. Experienced in building reusable component libraries, integrating REST APIs, optimizing performance, and collaborating with cross-functional Agile teams to deliver production-grade applications.
+```yaml
+name: Seenivasan
+role: React Native & React.js Developer
+experience: "~4 years"
+location: Tamil Nadu, India
+education: Software Engineering
 
----
+currently_working_on: Production-ready Android & Web applications
+open_to: Exciting opportunities in mobile & web development
 
-## 💼 Current Position
-React Native Developer — building production-ready Android apps and responsive React web apps. (Open to relevant opportunities; recruiters: please see contact at the bottom.)
+daily_stack:
+  mobile: ["React Native", "TypeScript", "Redux", "MobX"]
+  web: ["React.js", "JavaScript (ES6+)", "HTML5", "CSS3"]
+  tools: ["Git", "VS Code", "Android Studio", "Postman"]
+  practices: ["Agile", "REST APIs", "CI/CD", "TDD"]
+```
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<!-- ─────────────────────── TECH STACK ─────────────────────────── -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Tech Stack
+
 <div align="center">
 
-<!-- Colorful shields.io badges -->
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/REST_API-5E34F2?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
+<!-- Skill Icons — modern, uniform, beautiful -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,git,vscode,androidstudio,redux,firebase,postman&perline=6&theme=dark" alt="Tech Stack" />
+</a>
+
+<br/><br/>
+
+<!-- Categorized badges for detail -->
+<details>
+<summary><b>📱 Mobile Development</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white" />
+</details>
+
+<details>
+<summary><b>🌐 Web Development</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</details>
+
+<details>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/REST_APIs-5E34F2?style=for-the-badge" />
+</details>
 
 </div>
 
----
+<br/>
 
-## 🧩 Skills
-- React Native ✅
-- React.js ✅
-- JavaScript (ES6+) ✅
-- TypeScript ✅
-- HTML / CSS ✅
-- Git & Version Control ✅
-- REST API integration ✅
-- Performance optimization & debugging ✅
+<!-- ─────────────────────── WHAT I DO ─────────────────────────── -->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📱 Mobile Development
-- Expertise in building Android apps using React Native, with a focus on:
-  - Reusable component architecture
-  - Navigation, state management (Context / Redux / Mobx as required)
-  - Native modules and third-party SDK integration
-  - Release process: building signed APKs / AABs, Play Store submission workflow
-  - Performance: profiling, FlatList optimizations, image caching strategies
+<br/>
 
----
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;What I Do
 
-## 🌐 Web Development
-- React.js single-page applications with modern tooling:
-  - Component-driven UIs, responsive design, and accessibility best practices
-  - Integrations with REST APIs, token-based auth (JWT), and secure storage
-  - Deployment: Vercel / Netlify / Docker-ready applications
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
----
+### 📱 Mobile Development
+- Building **production Android apps** with React Native
+- Reusable component architecture & design systems
+- State management: Context / Redux / MobX
+- Native modules & third-party SDK integration
+- Play Store release: signed APKs / AABs
+- Performance profiling & FlatList optimization
 
-## 🚀 Projects (highlighted)
-Below are the projects you asked to emphasize. I detected two public repos in your account (Eatzo and a fork of typeorm). The four projects below are part of your professional highlights — if their repositories are public, we can add direct links and screenshots. Currently their source is not publicly visible on GitHub.
+</td>
+<td width="50%" valign="top">
 
-1. Car Sales Mobile Application
-   - Platform: React Native (Android)
-   - Highlights: Listings, image uploads, search & filters, user authentication, in-app messaging, REST API backend.
-   - Repo: (not found publicly) — consider publishing source or adding demo APK/video.
+### 🌐 Web Development
+- **React.js** single-page applications
+- Component-driven UIs with responsive design
+- REST API integration & JWT auth
+- Accessibility best practices (a11y)
+- Deployment: Vercel / Netlify / Docker
+- Modern tooling & build optimization
 
-2. Real Estate Mobile Application
-   - Platform: React Native (Android)
-   - Highlights: Map integration, property details, saved searches, push notifications.
-   - Repo: (not found publicly)
+</td>
+</tr>
+</table>
 
-3. Real Estate Web Application
-   - Platform: React.js (Web)
-   - Highlights: Responsive property search, sorting, admin dashboard for property management.
-   - Repo: (not found publicly)
+<br/>
 
-4. Weight Loss & Fitness Application
-   - Platform: React Native
-   - Highlights: Activity/goal tracking, charting progress, REST API sync, local data caching.
-   - Repo: (not found publicly)
+<!-- ─────────────────────── PROJECTS ──────────────────────────── -->
 
-Detected public repositories (linked)
-- Eatzo — React Native (TypeScript) project scaffold and starter. Repo: https://github.com/seenivasanks198/Eatzo
-- typeorm — forked repository of TypeORM (upstream README present). Repo: https://github.com/seenivasanks198/typeorm
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-(If the four highlighted apps are private or unpushed, publish them or add README screenshots to make them recruiter-ready.)
+<br/>
 
----
+## 🚀 Featured Projects
 
-## 🧾 Professional Experience (summary)
-- Nearly 4 years building Android mobile applications (React Native) and React.js web applications.
-- Built reusable UI components and integrated numerous REST APIs.
-- Worked in Agile teams and collaborated with designers, backend engineers, and QA to deliver production releases.
-- Focused on performance optimization, memory usage reduction, and improving app start-up time.
-
----
-
-## 📊 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seenivasanks198&show_icons=true&theme=dark&hide_rank=true&count_private=true" alt="github stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seenivasanks198&layout=compact&theme=dark" alt="most used languages" />
-</div>
-
----
-
-## 🔥 GitHub Streak & Contribution Graph
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seenivasanks198&theme=dark" alt="streak stats" />
-  <br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=seenivasanks198&theme=react-dark&hide_title=true" alt="Contribution graph" />
-</div>
-
----
-
-## 🏆 Trophy Section
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seenivasanks198&theme=dark" alt="trophy" />
-</div>
-
----
-
-## 🔗 Connect With Me
-<div align="center">
-  <a href="mailto:vasanvenky188@gmail.com"><img src="https://img.shields.io/badge/Email-vasanvenky188%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="email" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-666?style=for-the-badge" alt="location" />
-</div>
-
----
-
-## 🗒️ Quote of the Day
-> "Simplicity is the soul of efficiency." — Austin Freeman  
-A short daily reminder to keep solutions focused, maintainable, and performant. ✨
-
----
-
-## 👀 Visitor Counter
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🚗 Car Sales App</h3>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=seenivasanks198.seenivasanks198" alt="visitor badge" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 </p>
+<p align="center">Full-featured vehicle marketplace with listings, image uploads, search & filters, authentication, and in-app messaging.</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🏠 Real Estate Mobile App</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
+<p align="center">Property exploration app with map integration, property details, saved searches, and push notifications.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🌐 Real Estate Web App</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Responsive-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+<p align="center">Responsive property search platform with sorting, filtering, and an admin dashboard for property management.</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">💪 Fitness Tracker App</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Charts-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+</p>
+<p align="center">Weight loss & fitness tracking app with activity goals, progress charting, REST API sync, and local caching.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2" valign="top">
+<h3 align="center">🍕 <a href="https://github.com/seenivasanks198/Eatzo">Eatzo</a></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+<p align="center">React Native (TypeScript) food ordering application — scaffold and starter project.</p>
+</td>
+</tr>
+</table>
+</div>
 
----
+<br/>
 
-## 🎉 Fun Fact
-- I maintain practical TypeScript & React Native toolchains and learned about ORMs by exploring TypeORM (seen in your fork). I like to build clean, reusable UI components that scale across mobile and web.
+<!-- ─────────────────────── GITHUB STATS ──────────────────────── -->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ✅ Quick checklist to make this profile recruiter-ready
-- [ ] Publish the four highlighted project repositories or add detailed READMEs/screenshots/demos.
-- [ ] Add demo GIFs and screenshots to each repo (recommended 600–900px wide).
-- [ ] Add CI (GitHub Actions) and a basic unit / integration test for at least one repo.
-- [ ] Add LICENSE and a short CONTRIBUTING.md for public projects.
-- [ ] Pin the 3–6 repos on your profile you most want recruiters to see (Car Sales, Real Estate mobile/web, Weight Loss app, plus Eatzo if that’s ready).
+<br/>
 
----
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"> &nbsp;GitHub Analytics
+<br/>
 
-If you want, I can:
-- Create screenshot-ready README templates for each highlighted project (with the exact markup and image placeholders).
-- Create a GitHub Actions workflow that runs tests and shows a build badge for any repo.
-- Generate ready-to-use badges and GIF instructions to add to each project.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seenivasanks198&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1b27&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</div>
 
-Would you like me to:
-1) Generate README templates for each of the four projects (Car Sales, Real Estate mobile, Real Estate web, Weight Loss)? or  
-2) Create a GitHub Actions CI template for your Eatzo repo?
+<br/>
 
-Reply with 1 or 2 (or tell me both) and I’ll generate the files and commit-ready content.
+<!-- Contribution Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seenivasanks198&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/seenivasanks198/seenivasanks198/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/seenivasanks198/seenivasanks198/blob/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://github.com/seenivasanks198/seenivasanks198/blob/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ─────────────────────── CONNECT ───────────────────────────── -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:vasanvenky188@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-vasanvenky188%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/seenivasanks198">
+  <img src="https://img.shields.io/badge/GitHub-seenivasanks198-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> 💬 *"Simplicity is the soul of efficiency."* — Austin Freeman
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────── FOOTER ────────────────────────────── -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" alt="footer" />
