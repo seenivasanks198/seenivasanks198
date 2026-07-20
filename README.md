@@ -233,15 +233,6 @@ daily_stack:
 
 <br/>
 
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/seenivasanks198/seenivasanks198/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/seenivasanks198/seenivasanks198/blob/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://github.com/seenivasanks198/seenivasanks198/blob/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
 <br/>
 
 <!-- ─────────────────────── CONNECT ───────────────────────────── -->
